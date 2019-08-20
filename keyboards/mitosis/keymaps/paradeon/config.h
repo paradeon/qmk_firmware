@@ -1,0 +1,18 @@
+#include "../../config.h"
+
+//#define TAPPING_TOGGLE 2
+//#define TAPPING_TERM 200
+#define ONESHOT_TAP_TOGGLE 2
+#define ONESHOT_TIMEOUT 2000
+#define PERMISSIVE_HOLD
+#define LEADER_TIMEOUT 300
+/* #define IGNORE_MOD_TAP_INTERRUPT */
+
+#define MOUSEKEY_DELAY 200
+#define MOUSEKEY_MAX_SPEED 40
+
+/* #define COMBO_COUNT 2 */
+
+/* #define AUTO_SHIFT_TIMEOUT 150 */
+/* #define NO_AUTO_SHIFT_SPECIAL */
+/* #define NO_AUTO_SHIFT_NUMERIC */
